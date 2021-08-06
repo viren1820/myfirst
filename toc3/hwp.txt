@@ -1,0 +1,2 @@
+made up of :"INFORMATION"  and accept all those string which
+contain :"FORM  at end of string.
